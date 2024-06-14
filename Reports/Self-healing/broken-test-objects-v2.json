@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_IMPORTANT NEWS        QS Asia Universit_c57cb3 (2)",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Students Counseling Cell\u0027])[1]/following::div[55]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_MADURAI KAMARAJ UNIVERSITY - OFFICIAL SITE/div_IMPORTANT NEWS        QS Asia Universit_c57cb3 (2)_position.png"
+    }
+  ]
+}
